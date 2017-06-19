@@ -11,7 +11,7 @@ On your dokku server:
 git clone https://github.com/nerdynz/dokku-wkhtmltopdf /var/lib/dokku/plugins/dokku-wkhtmltopdf
 
 # On 0.4.x
-dokku plugin:install https://github.com/nerdynz/dokku-wkhtmltopdf.git wkhtmltopdf
+dokku plugin:install https://github.com/leandrobraga/dokku-wkhtmltopdf.git wkhtmltopdf
 ```
 
 All future deployments will have dokku-wkhtmltopdf installed.
